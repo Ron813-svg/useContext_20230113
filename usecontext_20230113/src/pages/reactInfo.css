@@ -1,0 +1,32 @@
+.react-info-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.react-info-container h1 {
+  color: #61dafb;
+  margin-bottom: 16px;
+}
+
+.react-info-container h2 {
+  color: #333;
+  margin-top: 24px;
+}
+
+.react-info-container ul {
+  margin-left: 24px;
+}
+
+.react-info-container a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.react-info-container a:hover {
+  text-decoration: underline;
+}
